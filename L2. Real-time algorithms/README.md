@@ -1,4 +1,4 @@
-## Laboratory work 2 "Development of real-time algorithms"
+# Laboratory work 2 "Development of real-time algorithms"
 
 ## Task
 
