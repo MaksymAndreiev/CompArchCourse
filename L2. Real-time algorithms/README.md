@@ -39,3 +39,6 @@ displays of the laboratory layout LM51A. Animation option - 16, "Worm". The fram
 ЛМ51А. Варіант анімації – 16, «Черв’ячок». Період зміни кадрів – 0.36 с.
 
 ![V-16.gif](V-16.gif)
+
+
+![image](https://github.com/MaksymAndreiev/CompArchCourse/assets/29687267/7ae00fd5-d3e2-48f6-a44d-ab7fcc8d0bd5)
