@@ -5,7 +5,7 @@
 </div>
 
 # Computer architecture
-Workshop on the course "Computer Architecture" at V. N. Karazin Kharkiv National University, which I took in the 3rd and 4th year in 2022 at the Faculty of Computer Science. Lecturer Associate Professor of the Department of Electronics and Control Systems, Doctor of Technical Sciences Reva Serhii Mykolayovych.\
+Workshop on the course "Computer Architecture" at V. N. Karazin Kharkiv National University, which I took in the 3rd and 4th year in 2022 at the Computer Science Department. Lecturer Associate Professor of the Department of Electronics and Control Systems, Doctor of Technical Sciences Reva Serhii Mykolayovych.\
 The course "Computer Architecture" introduces students to the concepts of microprocessor and computer architecture, briefly introduces the history of the development of personal computers. 
 The course is designed for third-year students of the Faculty of Computer Science, it studies the architecture of microcontrollers and microprocessors of the x86 family, 
 it provides for practical tasks and laboratory work on programming microcontrollers and computers at different levels of architecture.\
