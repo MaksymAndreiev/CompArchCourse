@@ -12,7 +12,7 @@ it provides for practical tasks and laboratory work on programming microcontroll
 Practical tasks and laboratory works were performed using the integrated development environment [Keil uVision](https://www.keil.com/product/). 
 This environment provides tools for developing embedded systems and programs for microcontrollers.
 
-All laboratory work was performed under the educational laboratory model LM51, designed to study microcontrollers of the MK51 series and acquire skills in writing and debugging control programs for this series of devices. It is made in the form of printed circuit boards with installed electronic components.  The boards are protected by plastic panels with explanatory inscriptions. The model is powered by an external laboratory source.
+All laboratory work was performed under the educational laboratory model LM51, designed to study microcontrollers of the MCS-51 series and acquire skills in writing and debugging control programs for this series of devices. It is made in the form of printed circuit boards with installed electronic components.  The boards are protected by plastic panels with explanatory inscriptions. The model is powered by an external laboratory source.
 
 ![image](https://github.com/MaksymAndreiev/CompArchCourse/assets/29687267/3b700bce-8d8b-4b96-a0a6-64da81f770ae) 
 ![image](https://github.com/MaksymAndreiev/CompArchCourse/assets/29687267/379f7ef9-7f42-48d0-b24a-daf224912e23)
